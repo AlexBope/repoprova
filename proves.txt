@@ -1,4 +1,4 @@
 suma correcte 2+2=4
-suma incorrecta 2+3=7
+suma correcte 2+3=5
 prova dos
 prova tres
